@@ -5,6 +5,11 @@
       var kanye = "img/kanyeIcon.png";
       var dave = "img/daveFrancoIcon.png";
       var kourtney = "img/kourtneyIcon.png";
+      var donald = "img/donaldIcon.png";
+      var adam = "img/adamIcon.png";
+      var kylie = "img/kylieIcon.png";
+      var kendall = "img/kendallIcon.png";
+      var justin = "img/justinIcon.png";
       var placeholder = "img/placeholder.png"
       
 
@@ -49,7 +54,7 @@
             for(var j = 0; j < users.length; j++) {
              
               var celeb = users[j].user.username
-              console.log ("celeb", celeb);
+              console.log ("test", celeb);
             }
           }
          
@@ -62,24 +67,46 @@
           	if (celeb == "kanyew.est"){
               icon = kanye;
 
-              console.log (celeb)
+              //console.log (celeb)
             }
             else if (celeb == "kaleb_campbell"){
               icon = dave;
 
-              console.log (celeb)
+              //console.log (celeb)
             }
 
             else if (celeb == "kourtneypictures"){
               icon = kourtney;
 
-              console.log (celeb)
+              //console.log (celeb)
             }
 
             else if (celeb == "zoeolivia97"){
               icon = kim;
 
-              console.log (celeb)
+              //console.log (celeb)
+            }
+             else if (celeb == "justnbieber"){
+              icon = justin;
+
+              //console.log (celeb)
+            }
+             else if (celeb == "kendalljennercloset"){
+              icon = kendall;
+
+              console.log ( "look", celeb)
+            }
+
+            else if (celeb == "donald.trump.tweets"){
+              icon = donald;
+
+              console.log ( "look", celeb)
+            }
+
+            else if (celeb == "kylie.blood"){
+              icon = kylie;
+
+              console.log ( "look", celeb)
             }
 
             else {
