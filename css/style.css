@@ -1,7 +1,18 @@
 
- @import 'https://cdn.rawgit.com/EmilyAShaw/People_Zoo/blob/master/font/DK%20Lemon%20Yellow%20Sun.otf';
+ 
+ @font-face{
 
+ 	font-family: "DK Lemon Yellow Sun";
+ 	src:url("font/DK Lemon Yellow Sun.eot") format("embedded-opentype"),
+ 	url("font/DK Lemon Yellow Sun.otf") format("opentype");
+ }
 
+ @font-face{
+
+ 	font-family: "Adam";
+ 	src:url("font/Adam.eot") format("embedded-opentype"),
+ 	url("font/Adam.otf") format("opentype");
+ }
 
 
 .intrinsic-container {
