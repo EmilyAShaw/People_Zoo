@@ -139,7 +139,7 @@ div.boxBanner{
 
 body{
 	margin: 0px; /* Often browsers have a 5px margin by deafult*/
-	font-family:  "DK Lemon Yellow Sun",  sans-serif;
+	font-family:  "Adam",  sans-serif;
 	text-align: Right;
 
 	
@@ -212,7 +212,7 @@ h2{
 	padding-right: 100px;
 }
 p{
-	font-family: "DK Lemon Yellow Sun";
+	font-family: "Adam";
 		float: center;
 		padding-right: 10%;
 		padding-left: 10%;
