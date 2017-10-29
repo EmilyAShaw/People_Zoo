@@ -1,9 +1,17 @@
 
  @import 'https://cdn.rawgit.com/EmilyAShaw/People_Zoo/blob/master/font/DK%20Lemon%20Yellow%20Sun.otf';
+
+
+
+
 .intrinsic-container {
   position: relative;
   height: 0;
   overflow: hidden;
+}
+img{
+	padding-right: 10%;
+	padding-left: 10%;
 }
  
 /* 16x9 Aspect Ratio */
@@ -82,7 +90,7 @@ div.boxBanner{
 }
 .textbox{
 	background-color: white;
-	padding-top: 0.1%;
+	padding-top: 4%;
 	padding-bottom: 5%;
 	border-top-right-radius:50px;
 	border-bottom-right-radius:50px;
@@ -93,7 +101,7 @@ div.boxBanner{
 .map{
 	text-align: center;
 	padding-right: 0%;
-	padding-left: 5%;
+	padding-left: 0%;
 	padding-top: 5%;
 	padding-bottom: 5%;
 	font-size: 20px;
