@@ -2,17 +2,19 @@
  
  @font-face{
 
- 	font-family: "DK Lemon Yellow Sun";
- 	src:url("font/DK Lemon Yellow Sun.eot") format("embedded-opentype"),
- 	url("font/DK Lemon Yellow Sun.otf") format("opentype");
+ 	font-family: DK Lemon Yellow Sun;
+ 	src:url('DK Lemon Yellow Sun.eot') format('embedded-opentype'),
+ 	url('DK Lemon Yellow Sun.otf') format('opentype');
  }
 
  @font-face{
 
- 	font-family: "Adam";
- 	src:url("font/Adam.eot") format("embedded-opentype"),
- 	url("font/Adam.otf") format("opentype");
+ 	font-family: Adam;
+ 	src:url('Adam.eot') format('embedded-opentype'),
+ 	url('Adam.otf') format('opentype');
  }
+
+
 
 
 .intrinsic-container {
@@ -150,7 +152,7 @@ div.boxBanner{
 
 body{
 	margin: 0px; /* Often browsers have a 5px margin by deafult*/
-	font-family:  "Adam",  sans-serif;
+	font-family:  Adam;
 	text-align: Right;
 
 	
@@ -223,7 +225,7 @@ h2{
 	padding-right: 100px;
 }
 p{
-	font-family: "Adam";
+	font-family: Adam;
 		float: center;
 		padding-right: 10%;
 		padding-left: 10%;
