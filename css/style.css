@@ -2,9 +2,9 @@
  
  @font-face{
 
- 	font-family: DK Lemon Yellow Sun;
+ 	font-family: Moon Flower;
  	src:url('DK Lemon Yellow Sun.eot') format('embedded-opentype'),
- 	url('DK Lemon Yellow Sun.otf') format('opentype');
+ 	url('Moon Flower Bold.ttf') format('opentype');
  }
 
  @font-face{
@@ -220,7 +220,7 @@ h1 {
 	text-align: center
 }
 h2{
-	font-family: "DK Lemon Yellow Sun"
+	font-family: Moon Flower
 	font-size:15px;
 	padding-right: 100px;
 }
@@ -240,7 +240,7 @@ p{
 .container {
     overflow: hidden;
     background-image: url("images/navbackground.png");
-    font-family: "DK Lemon Yellow Sun";
+    font-family: Moon Flower;
      border-top-left-radius:50px;
     border-bottom-left-radius:50px;
      border-top-right-radius:50px;
