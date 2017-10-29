@@ -5,6 +5,7 @@
  	font-family: Moon Flower;
  	src:url('DK Lemon Yellow Sun.eot') format('embedded-opentype'),
  	url('Moon Flower Bold.ttf') format('opentype');
+
  }
 
  @font-face{
@@ -62,6 +63,7 @@ img{
 input[type=text] { /*https://www.w3schools.com/howto/howto_css_animated_search.asp*/
     width: 200px;
     box-sizing: border-box;
+    font-family: Adam;
     border: 0px;
     border-radius: 4px;
     font-size: 16px;
@@ -216,12 +218,13 @@ h1 {
 
 	background:#f2f7ff;
 
+
 	
 	text-align: center
 }
 h2{
 	font-family: Moon Flower
-	font-size:15px;
+	font-size: 30px;
 	padding-right: 100px;
 }
 p{
@@ -241,6 +244,7 @@ p{
     overflow: hidden;
     background-image: url("images/navbackground.png");
     font-family: Moon Flower;
+    font-size:200px;
      border-top-left-radius:50px;
     border-bottom-left-radius:50px;
      border-top-right-radius:50px;
@@ -252,7 +256,7 @@ p{
     font-size: 32px;
     color: black;
     text-align: center;
-    padding: 14px 115px; 
+    padding: 14px 120px; 
     text-decoration: none;
 
 }
