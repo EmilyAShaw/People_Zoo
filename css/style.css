@@ -1,5 +1,10 @@
 
-
+@font-face {
+    font-family: F16;
+    src: url("../Project3/fonts/DK Lemon Yellow Sun.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
 .intrinsic-container {
   position: relative;
   height: 0;
